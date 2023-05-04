@@ -1,0 +1,29 @@
+body
+{
+    height: 100%;
+    width: 100%;
+
+}
+.s
+{
+  text-decoration: none;
+  color: black; 
+}
+.s:hover
+{
+    color: grey;
+}
+.l
+{
+    text-decoration: none;
+    color: black;
+}
+.l:hover{color: grey;}
+.g{text-decoration: none; color: black;} .g:hover{color: grey;}
+.h1{background-color: lightgray; width: 48%;}
+.hh1{background-color: grey;width: 48%;}
+.pp1{margin-left: 52%; margin-top: -46.64%; background-color: grey;}
+.d1{margin-left: 55%;}
+.w1{background-color:grey ; width: 48%;}
+.ppp1{margin-left: 52%; margin-top: 2%; background-color: grey; }
+.pppp1{margin-left: 52%; margin-top: 2%; background-color: grey;}
